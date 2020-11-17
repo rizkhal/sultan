@@ -20,7 +20,7 @@
                     <!-- Insert analytics code here -->
         
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
-        <link rel="stylesheet" href="/assets/build/css/main.css?id=8b679ae38752bb144e41">
+        <link rel="stylesheet" href="/assets/build/css/main.css?id=4de1992b785b3ee408a1">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/alpinejs/2.3.0/alpine.js" integrity="sha512-nIwdJlD5/vHj23CbO2iHCXtsqzdTTx3e3uAmpTm4x2Y8xCIFyWu4cSIV8GaGe2UNVq86/1h9EgUZy7tn243qdA==" crossorigin="anonymous"></script>
     </head>
 
@@ -86,22 +86,21 @@
         <li class="pl-4">
             <a
                 title="Sultan Alat Berat Blog"
-                
-                href="#"
+                href="https://rizkhal.github.io/sultan/blog"
                 class="nav-menu__item hover:text-blue-500 "
             >Blog</a>
         </li>
         <li class="pl-4">
             <a
                 title="Sultan Alat Berat About"
-                href="/about"
+                href="https://rizkhal.github.io/sultan/about"
                 class="nav-menu__item hover:text-blue-500 "
             >About</a>
         </li>
         <li class="pl-4">
             <a
                 title="Sultan Alat Berat Contact"
-                href="/contact"
+                href="https://rizkhal.github.io/sultan/contact"
                 class="nav-menu__item hover:text-blue-500 "
             >Contact</a>
         </li>
@@ -121,143 +120,32 @@
                 class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
             >configuration</a>
             
-    <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
-        <div 
-        class="w-full h-full flex items-center justify-center"    
-        x-data="{ open: false }"
-        @keydown.escape="open = false"
-    >
-            <button class="bg-green-500 hover:bg-green-600 text-white font-bold px-6 py-4 rounded focus:outline-none" @click="open = true">
-              Otevřít galerii
-            </button>
-        
-          <div class="fixed top-0 left-0 w-full h-full flex items-center justify-center" style="background-color: rgba(0,0,0,.5);" x-show.transition="open">
-            <div class="flex items-center justify-start w-12 m-2 ml-6 mb-4 md:m-2 z-50 absolute bottom-0 transform translate-x-12 md:translate-x-32">
-              <button
-                      class="text-white w-12 h-12 rounded-full flex items-center justify-center focus:outline-none"
-                      style="background-color: rgba(0,0,0,.4);"
-                      @click="open = false">
-                <img src="https://obr.now.sh/remixicon/system/close-fill/64/ffffff" class="w-6 h-6">
-              </button>
-            </div>
-            <div class="h-full w-full flex items-center justify-center overflow-hidden" x-data="{activeSlide: 0, slides: []}">
-        
-        
-              <template x-for="(slide, index) in slides" :key="index">
-                <div class="h-full w-full flex items-center justify-center absolute">
-                  <div class="absolute top-0 bottom-0 py-2 md:py-24 px-2 flex flex-col items-center justify-center"
-                       x-show="activeSlide === index" 
-                       x-transition:enter="transition ease-out duration-150"
-                       x-transition:enter-start="opacity-0 transform scale-90"
-                       x-transition:enter-end="opacity-100 transform scale-100"
-                       x-transition:leave="transition ease-in duration-150"
-                       x-transition:leave-start="opacity-100 transform scale-100"
-                       x-transition:leave-end="opacity-0 transform scale-90">
-        
-                      <img :src="slide" class="object-contain max-w-full max-h-full rounded shadow-lg" />
-                      <div 
-                           class="bg-white rounded-full flex-shrink-0 px-3 py-1 shadow-sm leading-tight text-xs lg:text-sm max-w-sm text-center mx-4 mt-4 hidden md:block"
-                      >
-                        Prodej, byt 3+kk, 70 m², Pardubice, ul. 17. listopadu <span x-text="index + 1"></span>
-                      </div>
-                  </div>
-                  <div class="fixed text-white text-sm font-bold bottom-0 transform -translate-x-10 w-40 h-12 mb-2 hidden md:flex justify-center items-center"
-                       x-show="activeSlide === index">
-                    <span class="w-12 text-right" x-text="index + 1"></span>
-                    <span class="w-4 text-center">/</span>
-                    <span class="w-12 text-left" x-text="slides.length"></span>
-                  </div>
-                </div>
-              </template>
-        
-              <div class="fixed z-30 bottom-0 mb-4 md:mb-2 transform -translate-x-8 md:-translate-x-10 flex justify-center">
-                <div class="flex items-center justify-end w-12 mr-3 md:mr-16">
-                  <button 
-                          type="button"
-                          class="w-12 h-12 rounded-full focus:outline-none flex items-center justify-center" 
-                          style="background-color: rgba(0,0,0,.4);"
-                          @click="activeSlide = activeSlide === 0 ? slides.length - 1 : activeSlide - 1">
-                    <img src="https://obr.now.sh/remixicon/system/arrow-left-s-line/64/ffffff" class="w-6 h-6">
-                  </button>
-                </div>
-                <div class="flex items-center justify-start w-12 md:ml-16">
-                  <button 
-                          type="button"
-                          class="text-white font-bold w-12 h-12 rounded-full focus:outline-none flex items-center justify-center"
-                          style="background-color: rgba(0,0,0,.4);"
-                          @click="activeSlide = activeSlide === slides.length - 1 ? 0 : activeSlide + 1">
-                    <img src="https://obr.now.sh/remixicon/system/arrow-right-s-line/64/ffffff" class="w-6 h-6">
-                  </button>
-                </div>
-              </div>
-        
-        
-            </div>
-          </div>
-    </div>
-        
-        <p>This is a starter template for creating a beautiful, customizable blog with minimal effort. You’ll only have to change a few settings and you’re ready to go.<!-- more --></p>
+    <div class="border-b border-blue-200 mb-10 pb-4" v-pre>        
+        <p>For Sale</p>
 
-<h2>Configuration</h2>
+<p>Used Sakai SW500 Double Drum Roller</p>
 
-<p>As with all Jigsaw sites, configuration settings can be found in <code>config.php</code>; you can update the variables in that file with settings specific to your site. You can also add new configuration variables there to use across your site; take a look at the <a href="http://jigsaw.tighten.co/docs/site-variables/">Jigsaw documentation</a> to learn more.</p>
+<p>Jenis Alat : Double Drum Roller / Tandem Roller</p>
 
-<pre><code class="language-php">// config.php
-return [
-    'baseUrl' =&gt; 'https://my-awesome-jigsaw-site.com/',
-    'production' =&gt; false,
-    'siteName' =&gt; 'My Site',
-    'siteDescription' =&gt; 'Give your blog a boost with Jigsaw.',
-    ...
-];
-</code></pre>
+<p>Merek : Sakai</p>
 
-<blockquote>
-  <p>Tip: This configuration file is also where you’ll define any "collections" (for example, a collection of the contributors to your site, or a collection of blog posts organized by topic). Check out the official <a href="https://jigsaw.tighten.co/docs/collections/">Jigsaw documentation</a> to learn more.</p>
-</blockquote>
+<p>Tipe : SW500</p>
 
-<hr />
+<p>Serial Number : –</p>
 
-<h3>Adding Content</h3>
+<p>Deskripsi : 4.6ton,</p>
 
-<p>You can write your content using a <a href="http://jigsaw.tighten.co/docs/content-other-file-types/">variety of file types</a>. By default, this starter template expects your content to be located in the <code>source/_posts/</code> folder.</p>
+<p>Tahun Impor : –</p>
 
-<p>The top of each content page contains a YAML header that specifies how it should be rendered. The <code>title</code> attribute is used to dynamically generate HTML <code>title</code> and OpenGraph tags for each page. The <code>extends</code> attribute defines which parent Blade layout this content file will render with (e.g. <code>_layouts.post</code> will render with <code>source/_layouts/post.blade.php</code>), and the <code>section</code> attribute defines the Blade "section" that expects this content to be placed into it.</p>
+<p>Hour : 4659,1</p>
 
-<pre><code class="language-yaml">---
-extends: _layouts.post
-section: content
-title: Getting Started
-date: 2018-12-25
-description: Getting started with the Jigsaw blog starter template
-cover_image: /assets/img/post-cover-image-2.png
-featured: true
----
-</code></pre>
+<p>kondisi : second, bagus dan siap kerja</p>
 
-<h3>Adding Assets</h3>
+<p>Buatan : Jepang</p>
 
-<p>Any assets that need to be compiled (such as JavaScript, Less, or Sass files) can be added to the <code>source/_assets/</code> directory, and Laravel Mix will process them when running <code>npm run local</code> or <code>npm run production</code>. The processed assets will be stored in <code>/source/assets/build/</code> (note there is no underscore on this second <code>assets</code> directory).</p>
+<p>Engine : Isuzu, KW (HP) 29.6 (39.7)</p>
 
-<p>Then, when Jigsaw builds your site, the entire <code>/source/assets/</code> directory containing your built files (and any other directories containing static assets, such as images or fonts, that you choose to store there) will be copied to the destination build folders (<code>build_local</code>, on your local machine).</p>
-
-<p>Files that don't require processing (such as images and fonts) can be added directly to <code>/source/assets/</code>.</p>
-
-<p><a href="http://jigsaw.tighten.co/docs/compiling-assets/">Read more about compiling assets in Jigsaw using Laravel Mix.</a></p>
-
-<hr />
-
-<h2 id="getting-started-building-your-site">Building Your Site</h2>
-
-<p>Now that you’ve edited your configuration variables and know how to customize your styles and content, let’s build the site.</p>
-
-<pre><code class="language-bash"># build static files with Jigsaw
-./vendor/bin/jigsaw build
-
-# compile assets with Laravel Mix
-# options: dev, staging, production
-npm run dev
-</code></pre>
+<p>Lokasi : Bandara Mas, Tangerang – Indonesia</p>
     </div>
 
     <nav class="flex justify-between text-sm md:text-base">
@@ -275,12 +163,7 @@ npm run dev
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center list-none">
                 <li class="md:mr-2">
-                    &copy; <a href="https://tighten.co" title="Tighten website">Tighten</a> 2020.
-                </li>
-
-                <li>
-                    Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a>
-                    and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.
+                    Sultan &copy; All Right Reserved
                 </li>
             </ul>
         </footer>

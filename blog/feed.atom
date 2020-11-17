@@ -3,7 +3,7 @@
     <title>Sultan Alat Berat</title>
     <link href="https://rizkhal.github.io/sultan/blog" />
     <link type="application/atom+xml" rel="self" href="https://rizkhal.github.io/sultan/blog/feed.atom" />
-    <updated>2020-11-17T21:57:50+08:00</updated>
+    <updated>2020-11-17T22:12:14+08:00</updated>
     <id>https://rizkhal.github.io/sultan/blog/feed.atom</id>
     <author>
         <name>Admin</name>
@@ -17,70 +17,53 @@
     <author>
         <name>Admin</name>
     </author>
-    <summary type="html">This is a starter template for creating a beautiful, customizable blog with minimal effort. You’ll only have to change a few settings and you’re ready to go....</summary>
+    <summary type="html">For Sale
+
+Used Sakai SW500 Double Drum Roller
+
+Jenis Alat : Double Drum Roller / Tandem Roller
+
+Merek : Sakai
+
+Tipe : SW500
+
+Serial Number : –
+
+Deskripsi : 4.6ton,
+
+Tahun Impor : –
+
+Hour : 4659,1
+
+kondisi : second, bagus dan siap kerja
+
+Buatan :......</summary>
     <content type="html"><![CDATA[
-        <p>This is a starter template for creating a beautiful, customizable blog with minimal effort. You’ll only have to change a few settings and you’re ready to go.<!-- more --></p>
+        <p>For Sale</p>
 
-<h2>Configuration</h2>
+<p>Used Sakai SW500 Double Drum Roller</p>
 
-<p>As with all Jigsaw sites, configuration settings can be found in <code>config.php</code>; you can update the variables in that file with settings specific to your site. You can also add new configuration variables there to use across your site; take a look at the <a href="http://jigsaw.tighten.co/docs/site-variables/">Jigsaw documentation</a> to learn more.</p>
+<p>Jenis Alat : Double Drum Roller / Tandem Roller</p>
 
-<pre><code class="language-php">// config.php
-return [
-    'baseUrl' =&gt; 'https://my-awesome-jigsaw-site.com/',
-    'production' =&gt; false,
-    'siteName' =&gt; 'My Site',
-    'siteDescription' =&gt; 'Give your blog a boost with Jigsaw.',
-    ...
-];
-</code></pre>
+<p>Merek : Sakai</p>
 
-<blockquote>
-  <p>Tip: This configuration file is also where you’ll define any "collections" (for example, a collection of the contributors to your site, or a collection of blog posts organized by topic). Check out the official <a href="https://jigsaw.tighten.co/docs/collections/">Jigsaw documentation</a> to learn more.</p>
-</blockquote>
+<p>Tipe : SW500</p>
 
-<hr />
+<p>Serial Number : –</p>
 
-<h3>Adding Content</h3>
+<p>Deskripsi : 4.6ton,</p>
 
-<p>You can write your content using a <a href="http://jigsaw.tighten.co/docs/content-other-file-types/">variety of file types</a>. By default, this starter template expects your content to be located in the <code>source/_posts/</code> folder.</p>
+<p>Tahun Impor : –</p>
 
-<p>The top of each content page contains a YAML header that specifies how it should be rendered. The <code>title</code> attribute is used to dynamically generate HTML <code>title</code> and OpenGraph tags for each page. The <code>extends</code> attribute defines which parent Blade layout this content file will render with (e.g. <code>_layouts.post</code> will render with <code>source/_layouts/post.blade.php</code>), and the <code>section</code> attribute defines the Blade "section" that expects this content to be placed into it.</p>
+<p>Hour : 4659,1</p>
 
-<pre><code class="language-yaml">---
-extends: _layouts.post
-section: content
-title: Getting Started
-date: 2018-12-25
-description: Getting started with the Jigsaw blog starter template
-cover_image: /assets/img/post-cover-image-2.png
-featured: true
----
-</code></pre>
+<p>kondisi : second, bagus dan siap kerja</p>
 
-<h3>Adding Assets</h3>
+<p>Buatan : Jepang</p>
 
-<p>Any assets that need to be compiled (such as JavaScript, Less, or Sass files) can be added to the <code>source/_assets/</code> directory, and Laravel Mix will process them when running <code>npm run local</code> or <code>npm run production</code>. The processed assets will be stored in <code>/source/assets/build/</code> (note there is no underscore on this second <code>assets</code> directory).</p>
+<p>Engine : Isuzu, KW (HP) 29.6 (39.7)</p>
 
-<p>Then, when Jigsaw builds your site, the entire <code>/source/assets/</code> directory containing your built files (and any other directories containing static assets, such as images or fonts, that you choose to store there) will be copied to the destination build folders (<code>build_local</code>, on your local machine).</p>
-
-<p>Files that don't require processing (such as images and fonts) can be added directly to <code>/source/assets/</code>.</p>
-
-<p><a href="http://jigsaw.tighten.co/docs/compiling-assets/">Read more about compiling assets in Jigsaw using Laravel Mix.</a></p>
-
-<hr />
-
-<h2 id="getting-started-building-your-site">Building Your Site</h2>
-
-<p>Now that you’ve edited your configuration variables and know how to customize your styles and content, let’s build the site.</p>
-
-<pre><code class="language-bash"># build static files with Jigsaw
-./vendor/bin/jigsaw build
-
-# compile assets with Laravel Mix
-# options: dev, staging, production
-npm run dev
-</code></pre>
+<p>Lokasi : Bandara Mas, Tangerang – Indonesia</p>
     ]]></content>
 </entry>
             <entry>
@@ -92,13 +75,53 @@ npm run dev
     <author>
         <name>Admin</name>
     </author>
-    <summary type="html">To provide fast, local search of your blog, this starter template comes with a pre-built Vue.js component that uses Fuse.js. Fuse.js is a &quot;lightweight fuzzy-search library with no dependencies.&quot; It works by running queries against a JSON index of your......</summary>
+    <summary type="html">For Sale
+
+Used Sakai SW500 Double Drum Roller
+
+Jenis Alat : Double Drum Roller / Tandem Roller
+
+Merek : Sakai
+
+Tipe : SW500
+
+Serial Number : –
+
+Deskripsi : 4.6ton,
+
+Tahun Impor : –
+
+Hour : 4659,1
+
+kondisi : second, bagus dan siap kerja
+
+Buatan :......</summary>
     <content type="html"><![CDATA[
-        <p>To provide fast, local search of your blog, this starter template comes with a pre-built Vue.js component that uses Fuse.js. <a href="http://fusejs.io/">Fuse.js</a> is a "lightweight fuzzy-search library with <em>no</em> dependencies." It works by running queries against a JSON index of your content.</p>
+        <p>For Sale</p>
 
-<p>During the <a href="http://jigsaw.tighten.co/docs/building-and-previewing/">build process</a>, the contents of your <code>posts</code> collection is processed by the <code>GenerateIndex.php</code> listener, and an <code>index.json</code> file is generated in the build directory. The <code>Search.vue</code> component provides a search input that queries this local index.</p>
+<p>Used Sakai SW500 Double Drum Roller</p>
 
-<p>If you'd like to customize the generation of your search index, take a look at the <code>handle</code> method of the <code>GenerateIndex.php</code> file.</p>
+<p>Jenis Alat : Double Drum Roller / Tandem Roller</p>
+
+<p>Merek : Sakai</p>
+
+<p>Tipe : SW500</p>
+
+<p>Serial Number : –</p>
+
+<p>Deskripsi : 4.6ton,</p>
+
+<p>Tahun Impor : –</p>
+
+<p>Hour : 4659,1</p>
+
+<p>kondisi : second, bagus dan siap kerja</p>
+
+<p>Buatan : Jepang</p>
+
+<p>Engine : Isuzu, KW (HP) 29.6 (39.7)</p>
+
+<p>Lokasi : Bandara Mas, Tangerang – Indonesia</p>
     ]]></content>
 </entry>
             <entry>
@@ -110,41 +133,53 @@ npm run dev
     <author>
         <name>Admin</name>
     </author>
-    <summary type="html">Mailchimp is a fantastic marketing platform, and takes the pain out of managing email lists and campaigns. The blog starter template comes with a beautiful pre-built newsletter form, that only needs a Mailchimp list URL to send to.
+    <summary type="html">For Sale
 
-To begin accepting......</summary>
+Used Sakai SW500 Double Drum Roller
+
+Jenis Alat : Double Drum Roller / Tandem Roller
+
+Merek : Sakai
+
+Tipe : SW500
+
+Serial Number : –
+
+Deskripsi : 4.6ton,
+
+Tahun Impor : –
+
+Hour : 4659,1
+
+kondisi : second, bagus dan siap kerja
+
+Buatan :......</summary>
     <content type="html"><![CDATA[
-        <p><a href="https://mailchimp.com/">Mailchimp</a> is a fantastic marketing platform, and takes the pain out of managing email lists and campaigns. The blog starter template comes with a beautiful pre-built newsletter form, that only needs a Mailchimp list URL to send to.</p>
+        <p>For Sale</p>
 
-<p>To begin accepting subscribers, simply add your list URL to the form <code>action</code> in the <code>source/_components/newsletter-signup.blade.php</code> file.</p>
+<p>Used Sakai SW500 Double Drum Roller</p>
 
-<pre><code class="language-html">&lt;!-- source/_components/newsletter-signup.blade.php --&gt;
+<p>Jenis Alat : Double Drum Roller / Tandem Roller</p>
 
-&lt;div id="mc_embed_signup"&gt;
-    &lt;form action="https://your-mail-chimp-list-manage-url" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate&gt;
-        &lt;div id="mc_embed_signup_scroll"&gt;
-            &lt;h2&gt;Sign up for newsletter&lt;/h2&gt;
-            &lt;div class="mc-field-group"&gt;
-                &lt;label for="mce-EMAIL"&gt;Email Address &lt;/label&gt;
-                &lt;input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email address"&gt;
-            &lt;/div&gt;
-            &lt;div id="mce-responses" class="clear"&gt;
-                &lt;div class="response" id="mce-error-response" style="display:none"&gt;&lt;/div&gt;
-                &lt;div class="response" id="mce-success-response" style="display:none"&gt;&lt;/div&gt;
-            &lt;/div&gt;    &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+<p>Merek : Sakai</p>
 
-            &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_25582686a9fc051afd5453557_189578c854" tabindex="-1" value=""&gt;&lt;/div&gt;
-            &lt;div class="clear"&gt;&lt;input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/form&gt;
-&lt;/div&gt;
-</code></pre>
+<p>Tipe : SW500</p>
 
-<h3>Example</h3>
+<p>Serial Number : –</p>
 
-<p><img src="/assets/img/newsletter.png"></p>
+<p>Deskripsi : 4.6ton,</p>
 
-<p><a href="https://mailchimp.com/help/host-your-own-signup-forms/#Edit_your_Custom_Signup_Form">See how to get your Mailchimp list URL.</a></p>
+<p>Tahun Impor : –</p>
+
+<p>Hour : 4659,1</p>
+
+<p>kondisi : second, bagus dan siap kerja</p>
+
+<p>Buatan : Jepang</p>
+
+<p>Engine : Isuzu, KW (HP) 29.6 (39.7)</p>
+
+<p>Lokasi : Bandara Mas, Tangerang – Indonesia</p>
     ]]></content>
 </entry>
             <entry>
@@ -156,9 +191,53 @@ To begin accepting......</summary>
     <author>
         <name>Admin</name>
     </author>
-    <summary type="html">This is the start of your first blog post....</summary>
+    <summary type="html">For Sale
+
+Used Sakai SW500 Double Drum Roller
+
+Jenis Alat : Double Drum Roller / Tandem Roller
+
+Merek : Sakai
+
+Tipe : SW500
+
+Serial Number : –
+
+Deskripsi : 4.6ton,
+
+Tahun Impor : –
+
+Hour : 4659,1
+
+kondisi : second, bagus dan siap kerja
+
+Buatan :......</summary>
     <content type="html"><![CDATA[
-        <p>This is the start of your first blog post.</p>
+        <p>For Sale</p>
+
+<p>Used Sakai SW500 Double Drum Roller</p>
+
+<p>Jenis Alat : Double Drum Roller / Tandem Roller</p>
+
+<p>Merek : Sakai</p>
+
+<p>Tipe : SW500</p>
+
+<p>Serial Number : –</p>
+
+<p>Deskripsi : 4.6ton,</p>
+
+<p>Tahun Impor : –</p>
+
+<p>Hour : 4659,1</p>
+
+<p>kondisi : second, bagus dan siap kerja</p>
+
+<p>Buatan : Jepang</p>
+
+<p>Engine : Isuzu, KW (HP) 29.6 (39.7)</p>
+
+<p>Lokasi : Bandara Mas, Tangerang – Indonesia</p>
     ]]></content>
 </entry>
             <entry>
@@ -170,22 +249,53 @@ To begin accepting......</summary>
     <author>
         <name>Admin</name>
     </author>
-    <summary type="html">This is the start of your first blog post.
+    <summary type="html">For Sale
 
+Used Sakai SW500 Double Drum Roller
 
-lorem1
-lorem2
-lorem3
-lorem4...</summary>
+Jenis Alat : Double Drum Roller / Tandem Roller
+
+Merek : Sakai
+
+Tipe : SW500
+
+Serial Number : –
+
+Deskripsi : 4.6ton,
+
+Tahun Impor : –
+
+Hour : 4659,1
+
+kondisi : second, bagus dan siap kerja
+
+Buatan :......</summary>
     <content type="html"><![CDATA[
-        <p>This is the start of your first blog post.</p>
+        <p>For Sale</p>
 
-<ul>
-<li>lorem1</li>
-<li>lorem2</li>
-<li>lorem3</li>
-<li>lorem4</li>
-</ul>
+<p>Used Sakai SW500 Double Drum Roller</p>
+
+<p>Jenis Alat : Double Drum Roller / Tandem Roller</p>
+
+<p>Merek : Sakai</p>
+
+<p>Tipe : SW500</p>
+
+<p>Serial Number : –</p>
+
+<p>Deskripsi : 4.6ton,</p>
+
+<p>Tahun Impor : –</p>
+
+<p>Hour : 4659,1</p>
+
+<p>kondisi : second, bagus dan siap kerja</p>
+
+<p>Buatan : Jepang</p>
+
+<p>Engine : Isuzu, KW (HP) 29.6 (39.7)</p>
+
+<p>Lokasi : Bandara Mas, Tangerang – Indonesia</p>
     ]]></content>
 </entry>
     </feed>
