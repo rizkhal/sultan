@@ -3,14 +3,14 @@
     <title>Sultan Alat Berat</title>
     <link href="https://rizkhal.github.io/sultan/blog" />
     <link type="application/atom+xml" rel="self" href="https://rizkhal.github.io/sultan/blog/feed.atom" />
-    <updated>2020-11-17T22:25:24+08:00</updated>
+    <updated>2020-11-17T22:42:35+08:00</updated>
     <id>https://rizkhal.github.io/sultan/blog/feed.atom</id>
     <author>
         <name>Admin</name>
     </author>
                 <entry>
-    <id>https://rizkhal.github.io/sultan/blog/getting-started</id>
-    <link type="text/html" rel="alternate" href="https://rizkhal.github.io/sultan/blog/getting-started" />
+    <id>https://rizkhal.github.io/sultan/catalog/getting-started</id>
+    <link type="text/html" rel="alternate" href="https://rizkhal.github.io/sultan/catalog/getting-started" />
     <title>Getting Started</title>
     <published>2018-12-25T08:00:00+08:00</published>
     <updated>2018-12-25T08:00:00+08:00</updated>
@@ -67,8 +67,8 @@ Buatan :......</summary>
     ]]></content>
 </entry>
             <entry>
-    <id>https://rizkhal.github.io/sultan/blog/fuse-search</id>
-    <link type="text/html" rel="alternate" href="https://rizkhal.github.io/sultan/blog/fuse-search" />
+    <id>https://rizkhal.github.io/sultan/catalog/fuse-search</id>
+    <link type="text/html" rel="alternate" href="https://rizkhal.github.io/sultan/catalog/fuse-search" />
     <title>Fuse Search</title>
     <published>2018-12-22T08:00:00+08:00</published>
     <updated>2018-12-22T08:00:00+08:00</updated>
@@ -125,8 +125,8 @@ Buatan :......</summary>
     ]]></content>
 </entry>
             <entry>
-    <id>https://rizkhal.github.io/sultan/blog/mailchimp-newsletters</id>
-    <link type="text/html" rel="alternate" href="https://rizkhal.github.io/sultan/blog/mailchimp-newsletters" />
+    <id>https://rizkhal.github.io/sultan/catalog/mailchimp-newsletters</id>
+    <link type="text/html" rel="alternate" href="https://rizkhal.github.io/sultan/catalog/mailchimp-newsletters" />
     <title>Mailchimp Newsletters</title>
     <published>2018-11-21T08:00:00+08:00</published>
     <updated>2018-11-21T08:00:00+08:00</updated>
@@ -183,8 +183,8 @@ Buatan :......</summary>
     ]]></content>
 </entry>
             <entry>
-    <id>https://rizkhal.github.io/sultan/blog/my-first-blog-post</id>
-    <link type="text/html" rel="alternate" href="https://rizkhal.github.io/sultan/blog/my-first-blog-post" />
+    <id>https://rizkhal.github.io/sultan/catalog/my-first-blog-post</id>
+    <link type="text/html" rel="alternate" href="https://rizkhal.github.io/sultan/catalog/my-first-blog-post" />
     <title>My First Blog Post</title>
     <published>2017-03-23T08:00:00+08:00</published>
     <updated>2017-03-23T08:00:00+08:00</updated>
@@ -241,8 +241,8 @@ Buatan :......</summary>
     ]]></content>
 </entry>
             <entry>
-    <id>https://rizkhal.github.io/sultan/blog/sakai-sw500-double-drum-roller-2</id>
-    <link type="text/html" rel="alternate" href="https://rizkhal.github.io/sultan/blog/sakai-sw500-double-drum-roller-2" />
+    <id>https://rizkhal.github.io/sultan/catalog/sakai-sw500-double-drum-roller-2</id>
+    <link type="text/html" rel="alternate" href="https://rizkhal.github.io/sultan/catalog/sakai-sw500-double-drum-roller-2" />
     <title>This is for testing</title>
     <published>2017-03-23T08:00:00+08:00</published>
     <updated>2017-03-23T08:00:00+08:00</updated>
